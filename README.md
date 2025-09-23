@@ -28,5 +28,5 @@ Preview:
 ## 📚 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/utsavthakur448/responsive-camera-site.git
+   git clone https://github.com/utsavthakur448/Simon-Says-Game.git
 2. Open index.html in your browser.
