@@ -25,3 +25,8 @@ Preview:
   
 <img width="1919" height="902" alt="Screenshot 2025-09-23 164103" src="https://github.com/user-attachments/assets/783e3e29-0d80-4b71-a7eb-dfddcefdbabe" />
 
+## 📚 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/utsavthakur448/responsive-camera-site.git
+2. Open index.html in your browser.
