@@ -17,6 +17,10 @@ Technologies Used:
 - CSS: Styling and animations.
 - JavaScript: Game logic and interaction.
 
+
+Click Here to See:  
+https://utsavthakur448.github.io/Simon-Says-Game/  
+  
 Preview:  
   
 <img width="1919" height="902" alt="Screenshot 2025-09-23 164103" src="https://github.com/user-attachments/assets/783e3e29-0d80-4b71-a7eb-dfddcefdbabe" />
