@@ -23,7 +23,8 @@ https://utsavthakur448.github.io/Simon-Says-Game/
   
 Preview:  
   
-<img width="1919" height="902" alt="Screenshot 2025-09-23 164103" src="https://github.com/user-attachments/assets/783e3e29-0d80-4b71-a7eb-dfddcefdbabe" />
+<img width="1919" height="904" alt="Screenshot 2025-09-27 164308" src="https://github.com/user-attachments/assets/b1911f6e-5493-4615-b80f-5fc0c9de6d4f" />
+
 
 ## 📚 How to Use
 1. Clone the repository:
